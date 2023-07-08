@@ -1,7 +1,7 @@
 # Sudanese-dialect-machine-translation
 
 ## Abstract
-Addressing the prevalent challenge of language resource disparity, this re-
+Addressing the prevalent challenge of language resource disparity, this re
 search primarily aims to enhance the accessibility of English content for
 speakers of the Sudanese dialect, a recognized low-resource language. Our
 strategic approach involved fine-tuning an established English-Arabic multi-
